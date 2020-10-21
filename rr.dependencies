@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "cleonilson/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "remote" : "github"
+  },
+  {
+    "repository": "cleonilson/android_kernel_xiaomi_sdm845",
+    "target_path": "kernel/xiaomi/sdm845",
+    "remote" : "github"
+  }
+]
